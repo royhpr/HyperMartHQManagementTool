@@ -1,0 +1,20 @@
+system error: error occurred while trying to update stock
+
+Actuall Error: Column 'SellingPrice' does not belong to table stock.
+system error: error occurred while trying to add pendingRequest
+
+Actuall Error: Violation of PRIMARY KEY constraint 'PK__RequestA__3BC5D9C6286302EC'. Cannot insert duplicate key in object 'dbo.RequestApproveStatus'. The duplicate key value is (10005058, 0013, Aug  3 2014  6:36PM, roy.hpr@gmail.com).
+The statement has been terminated.
+system error: error occurred while trying to add rejectedRequest
+
+Actuall Error: Violation of PRIMARY KEY constraint 'PK__RequestA__3BC5D9C6286302EC'. Cannot insert duplicate key in object 'dbo.RequestApproveStatus'. The duplicate key value is (10005058, 0013, Aug  3 2014  6:36PM, roy.hpr@gmail.com).
+The statement has been terminated.
+system error: error occurred while trying to update stock
+
+Actuall Error: Column 'SellingPrice' does not belong to table stock.
+system error: error occurred while trying to add outgoing request
+
+Actuall Error: Input array is longer than the number of columns in this table.
+system error: error occurred while trying to add outgoing request
+
+Actuall Error: Input array is longer than the number of columns in this table.

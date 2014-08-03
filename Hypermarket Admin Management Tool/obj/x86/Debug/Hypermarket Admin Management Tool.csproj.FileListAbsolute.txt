@@ -1,0 +1,44 @@
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.exe.config
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.exe
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.pdb
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditDiscount.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditManufacturer.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditProduct.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditShop.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditStaff.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditStock.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.ApproveInterface.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.ChangePassword.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Operation.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Login.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Main.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.SummaryReport.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool.CustomMessageBox.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool.Properties.Resources.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket Admin Management Tool.exe
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket Admin Management Tool.pdb
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Alert.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.exe.config
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.exe
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\bin\Debug\Hypermarket Admin Management Tool.pdb
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditDiscount.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditManufacturer.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditProduct.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditShop.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditStaff.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.AddEditStock.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Alert.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.ApproveInterface.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.ChangePassword.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Operation.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Login.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.Main.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool._0_View.SummaryReport.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool.CustomMessageBox.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket_Admin_Management_Tool.Properties.Resources.resources
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket Admin Management Tool.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket Admin Management Tool.exe
+C:\Users\Roy\Desktop\Hypermarket Admin Management Tool\Hypermarket Admin Management Tool\obj\x86\Debug\Hypermarket Admin Management Tool.pdb
